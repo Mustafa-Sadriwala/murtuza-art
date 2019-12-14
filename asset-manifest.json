@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/murtuza-art/static/css/main.d1b05096.chunk.css",
+    "main.js": "/murtuza-art/static/js/main.b8491710.chunk.js",
+    "main.js.map": "/murtuza-art/static/js/main.b8491710.chunk.js.map",
+    "runtime-main.js": "/murtuza-art/static/js/runtime-main.a1e205da.js",
+    "runtime-main.js.map": "/murtuza-art/static/js/runtime-main.a1e205da.js.map",
+    "static/js/2.1e49a6c3.chunk.js": "/murtuza-art/static/js/2.1e49a6c3.chunk.js",
+    "static/js/2.1e49a6c3.chunk.js.map": "/murtuza-art/static/js/2.1e49a6c3.chunk.js.map",
+    "index.html": "/murtuza-art/index.html",
+    "precache-manifest.d22af422847df4b69acce4583919961c.js": "/murtuza-art/precache-manifest.d22af422847df4b69acce4583919961c.js",
+    "service-worker.js": "/murtuza-art/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/murtuza-art/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.1e49a6c3.chunk.js.LICENSE": "/murtuza-art/static/js/2.1e49a6c3.chunk.js.LICENSE",
+    "static/media/logo.svg": "/murtuza-art/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1e205da.js",
+    "static/js/2.1e49a6c3.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.b8491710.chunk.js"
+  ]
+}
